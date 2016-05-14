@@ -1,0 +1,13 @@
+C:\Adhoc\2015\CSharp6\CSharp6\bin\Debug\CSharp6.exe.config
+C:\Adhoc\2015\CSharp6\CSharp6\bin\Debug\CSharp6.exe
+C:\Adhoc\2015\CSharp6\CSharp6\bin\Debug\CSharp6.pdb
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\MainWindow.g.cs
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\App.g.cs
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\CSharp6_MarkupCompile.cache
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\CSharp6_MarkupCompile.lref
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\MainWindow.baml
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\CSharp6.g.resources
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\CSharp6.Properties.Resources.resources
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\CSharp6.csproj.GenerateResource.Cache
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\CSharp6.exe
+C:\Adhoc\2015\CSharp6\CSharp6\obj\Debug\CSharp6.pdb
