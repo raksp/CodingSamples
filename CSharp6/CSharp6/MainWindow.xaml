@@ -1,0 +1,21 @@
+﻿<Window x:Class="CSharp6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSharp6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="375.61" Width="525">
+    <Grid Margin="0,0,0,-3" Height="349" VerticalAlignment="Top">
+        <Button x:Name="buttonStatic_Click" Content="Static" HorizontalAlignment="Left" Margin="38,10,0,0" VerticalAlignment="Top" Width="283" Click="Static_Button"/>
+        <Button x:Name="buttonAutoInitilizers_Click" Content="Auto-Property Initializers" HorizontalAlignment="Left" Margin="38,44,0,0" VerticalAlignment="Top" Width="283" Click="AutoInitilizers_button"/>
+        <Button x:Name="button2" Content="Dictionary Initializers" HorizontalAlignment="Left" Margin="38,79,0,0" VerticalAlignment="Top" Width="283" Click="DictionaryInitializers_button"/>
+        <Button x:Name="button" Content="String Interpolation" HorizontalAlignment="Left" Margin="38,114,0,0" VerticalAlignment="Top" Width="283" Click="StringInterpolation_button"/>
+        <Button x:Name="button1" Content="nameOf Expression" HorizontalAlignment="Left" Margin="38,150,0,0" VerticalAlignment="Top" Width="283" Click="nameOfExpression_button"/>
+        <Button x:Name="button3" Content="Expression Bodied Function &amp; Property" HorizontalAlignment="Left" Margin="38,187,0,0" VerticalAlignment="Top" Width="283" Click="ExpressionBodiedFunctionProperty_button"/>
+        <Button x:Name="button4" Content="Exception Filters" HorizontalAlignment="Left" Margin="38,222,0,0" VerticalAlignment="Top" Width="283" Click="ExceptionFilters_button"/>
+        <Button x:Name="button5" Content="Await in a Catch and Finally Block" HorizontalAlignment="Left" Margin="38,257,0,0" VerticalAlignment="Top" Width="283" Click="AwaitCatchandFinallyBlock_button"/>
+        <Button x:Name="button6" Content="Null Conditional Operator" HorizontalAlignment="Left" Margin="38,292,0,0" VerticalAlignment="Top" Width="283" Click="NullConditionalOperator_button"/>
+
+    </Grid>
+</Window>
